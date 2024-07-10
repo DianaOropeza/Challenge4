@@ -1,0 +1,43 @@
+.Cabecera{
+    background-color: #262626;
+    width: Fixed (1,443px)px;
+height: Fixed (125px)px;
+top: 5px;
+left: 0.5px;
+gap: 787px;
+border: 0px 0px 4px 0px;
+opacity: 0px;
+border-bottom: 4px solid var(--Blue, #2271D1)
+
+}
+
+.Cabecera img{
+    width: 168.45px;
+    height: 40px;
+    gap: 0px;
+    opacity: 0px;
+    position:relative;
+    top: 10px;
+    left: 20px;
+    margin: 20px; 
+}
+
+.Cabecera button{
+    position: relative;
+    width: 180.13px;
+    height: 54px;
+    gap: 0px;
+    border-radius: 15px 0px 0px 0px;
+    opacity: 0px;
+    border: 2px solid #F5F5F5;
+    font-family: Source Sans Pro;
+font-size: 20px;
+font-weight: 900;
+line-height: 24px;
+text-align: center;
+background-color: transparent;
+color: white;
+margin: 10px;
+left: 68%;
+bottom: 15px;
+}
